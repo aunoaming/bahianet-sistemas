@@ -17,3 +17,6 @@ monitorizacion.py: contiene las funciones relacionadas con la monitorización.
 Versión del proyecto
 
 v1.0 – Primera versión del proyecto.
+
+## Control de versiones
+Este proyecto utiliza Git y GitHub para gestionar sus versiones.
