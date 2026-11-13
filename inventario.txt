@@ -1,0 +1,4 @@
+INVENTARIO DE BAHÍANET
+
+- Servidor principal
+- Servidor de copias
