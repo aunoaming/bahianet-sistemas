@@ -1,0 +1,6 @@
+RED DE BAHÍANET 
+
+
+Red interna: 
+192.168.50.0/24
+
